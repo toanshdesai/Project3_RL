@@ -98,4 +98,4 @@ top of `train.py` (`SYNC`, `EPOCHS`, or a preset's layer sizes), train the quick
 
 ## AI assistance disclosure (Honor Code)
 
-I used Claude Code for this project
+Claude code was used
