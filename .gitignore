@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
+
+*.pptx
+~$*
+PROJECT_EXPLAINED.md
+Proj03_RL_PygAIme.pdf
